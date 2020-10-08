@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  background-color: rgb(39, 39, 39);
+  background-color: rgb(90, 89, 89);
   display: flex;
   justify-content: center;
   font-family: "Courier New", Courier, monospace;
@@ -18,7 +18,7 @@ canvas {
   transform: translate(-50%, -50%);
   width: 500px;
   height: 700px;
-  background-color: rgb(56, 56, 56);
+  background-color: rgb(43, 43, 43);
   margin-top: -4px;
   z-index: 11;
   display: flex;
